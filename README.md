@@ -1,4 +1,4 @@
-Repository for MADPIXELSORT Mac Releases
+Repository for MADPIXELSORT CORE Mac Releases
 
 https://www.madpixelsort.com
 
